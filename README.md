@@ -1,6 +1,6 @@
-# 💬 Chatbot template
+# 💬 Ayurveda 2.0
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+A simple Ayurveda Chatbot Streamlit app that utilizes Neo4J AuraDB and OpenAI's GPT models to respond to the user's health related queries with a Ayurvedic Solution.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ayurvedai.streamlit.app/)
 
