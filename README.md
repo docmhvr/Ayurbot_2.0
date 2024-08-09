@@ -4,6 +4,14 @@ A simple Ayurveda Chatbot Streamlit app that utilizes Neo4J AuraDB and OpenAI's 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ayurvedai.streamlit.app/)
 
+### Knowledge Graph Snapshots
+![Alt text](outputs/Capture.JPG)
+![Alt text](outputs/Capture2.JPG)
+![Alt text](outputs/Capture3.JPG)
+![Alt text](outputs/Capture4.JPG)
+![Alt text](outputs/Capture5.JPG)
+![Alt text](outputs/Capture6.JPG)
+
 ### How to run it on your own machine
 
 1. Install the requirements
